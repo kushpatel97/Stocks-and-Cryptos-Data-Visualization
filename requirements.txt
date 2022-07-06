@@ -9,7 +9,7 @@ enum34==1.1.6
 Flask==0.12.2
 googlefinance==0.7
 gunicorn==19.7.1
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.5
 itsdangerous==0.24
 Jinja2==2.9.6
